@@ -16,6 +16,11 @@ hr {
     margin-bottom: 8px;
 }
 
+input:focus,
+button:focus {
+    outline: 0;
+}
+
 nav {
     height: 50px;
     width: 100%;
